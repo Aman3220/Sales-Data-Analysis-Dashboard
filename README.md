@@ -16,9 +16,3 @@ This project focuses on applying data analytics techniques to the sales domain. 
 2. Leave a comment with your thoughts or questions.
 3. Share the project with others who might benefit from it.
 
-## Contact
-For inquiries or collaboration opportunities, please reach out via GitHub.
-
----
-
-Thank you for your support! Your engagement helps improve the project and make more resources available.
